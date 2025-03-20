@@ -2,9 +2,9 @@
   "name": "well-named-in",
   "version": "1.0.0",
   "description": "JS Assignment Repository",
-  "main": "colorCoder.js",
+  "main": "app/test.js",
   "scripts": {
-    "start": "node app/colorCoder.js"
+    "start": "node app/test.js"
   },
   "repository": {
     "type": "git",
